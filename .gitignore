@@ -1,0 +1,4 @@
+*.pyc
+server/info/
+server/output
+server/uploads

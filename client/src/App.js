@@ -1,4 +1,4 @@
-import React, { useState, useEffect, lazy, Suspense } from "react";
+import React, { useState, useEffect, Suspense } from "react";
 import { Box, CssBaseline } from "@mui/material";
 import { Route, Routes } from "react-router-dom";
 import { ThemeProvider } from "@mui/material/styles";
